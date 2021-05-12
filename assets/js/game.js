@@ -1,4 +1,6 @@
 /* GAME FUNCTIONS */
+/* Background Image*/
+document.body.style.backgroundImage = "url('img_tree.png')";
 
 // function to generate a random numeric value
 var randomNumber = function(min, max) {
